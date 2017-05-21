@@ -2,10 +2,11 @@
 
 A a database schema to store the game matches between players and to query this data and determine the winners of each and every game
 
-# How to run:
-First install vagrant from https://www.vagrantup.com/downloads.html
-then go to the project directory where Vagrantfile is present
-then right click and open terminal and type following commands:-
+# How to Run:
+Clone or Download this Repository
+1. First install vagrant from https://www.vagrantup.com/downloads.html
+2. Then go to the project directory where Vagrantfile is present
+3. Then right click and open terminal and type following commands:-
 * vagrant up && vagrant ssh
 * cd /vagrant
 * Then you have to install python pip :- sudo apt-get install python-pip
